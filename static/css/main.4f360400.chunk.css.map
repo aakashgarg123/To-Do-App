@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Todos.css"],"names":[],"mappings":"AAAA,SACI,eAAgB,CAClB,WACF,CAEC,GACI,iBAAkB,CAClB,kBACJ,CCPD,EACI,WACJ","file":"main.4f360400.chunk.css","sourcesContent":[".content{\r\n    max-width: 500px;\r\n  margin: auto;\r\n}\r\n\r\n h1 {\r\n     padding-top: 100px;\r\n     padding-left: 160px;\r\n }","\r\ni {\r\n    float: right;\r\n}\r\n\r\n"]}
