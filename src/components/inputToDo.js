@@ -5,8 +5,8 @@ window.id = 3;
 function InputToDo() {
     const [todos, setTodos] = useState(
         [
-           {id:1, text:'Apply hair oil'},
-           {id: 2, text: 'Gardening'}
+           {id:1, text:'Walk the dog'},
+           {id: 2, text: 'Order Veggies'}
         ]
     )
     const [currentToDo,setCurrentToDo] = useState('')
